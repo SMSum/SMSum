@@ -1,5 +1,12 @@
-## Hi there 👋
+# About Me:
+I'm currently developing Eversio and its accompanying libraries—a freestanding SaaS application. I've personally crafted every aspect of Eversio, including the intermediate GUI library, backend server, CDN, polymorphic engine, hooking mechanisms, CRT, and STL, all of which are actively in use.<br><br>My primary focus with Eversio is on low-level ASM optimizations and securing intellectual property by preventing both static and dynamic reverse engineering.
 
+# Primary Languages:
+- C++
+- C
+- x64 ASM
+
+# Weekly Stats:
 <!--START_SECTION:waka-->
 
 ```C++
