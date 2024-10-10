@@ -10,13 +10,12 @@ I'm currently developing Eversio and its accompanying libraries—a freestanding
 <!--START_SECTION:waka-->
 
 ```C++
-Total Time: 93 hrs 32 mins
+Total Time: 91 hrs 7 mins
 
-C++           91 hrs 4 mins   ||||||||||||||||||||||||-   97.32 %
-Objective-C   1 hr 33 mins    -------------------------   01.66 %
-JSON          48 mins         -------------------------   00.86 %
-Markdown      4 mins          -------------------------   00.09 %
-Other         3 mins          -------------------------   00.06 %
+C++           89 hrs 39 mins  |||||||||||||||||||||||||   98.01 %
+JSON          48 mins         -------------------------   00.88 %
+Objective-C   36 mins         -------------------------   00.66 %
+Other         21 mins         -------------------------   00.39 %
 ```
 
 <!--END_SECTION:waka-->
