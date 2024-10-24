@@ -12,8 +12,8 @@ I'm currently developing Eversio and its accompanying libraries—a freestanding
 ```C++
 Total Time: 85 hrs 51 mins
 
-C++           85 hrs 4 mins   ||||||||||||||||||||||||-   97.96 %
-Other         59 mins         -------------------------   01.13 %
+C++           85 hrs          |||||||||||||||||||||||||   98.23 %
+Other         40 mins         -------------------------   00.78 %
 ```
 
 <!--END_SECTION:waka-->
