@@ -10,10 +10,10 @@ I'm currently developing Eversio and its accompanying libraries—a freestanding
 <!--START_SECTION:waka-->
 
 ```C++
-Total Time: 94 hrs 33 mins
+Total Time: 94 hrs 26 mins
 
-C++           93 hrs 46 mins  |||||||||||||||||||||||||   98.93 %
-Objective-C   44 mins         -------------------------   00.79 %
+C++           93 hrs 34 mins  |||||||||||||||||||||||||   98.84 %
+Objective-C   47 mins         -------------------------   00.84 %
 Other         13 mins         -------------------------   00.23 %
 ```
 
