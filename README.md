@@ -7,10 +7,10 @@
 <!--START_SECTION:waka-->
 
 ```C++
-Total Time: 97 hrs 48 mins
+Total Time: 94 hrs 38 mins
 
-C++           97 hrs 12 mins  |||||||||||||||||||||||||   98.70 %
-Other         40 mins         -------------------------   00.69 %
+C++           94 hrs 17 mins  |||||||||||||||||||||||||   99.00 %
+Other         36 mins         -------------------------   00.63 %
 ```
 
 <!--END_SECTION:waka-->
