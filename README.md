@@ -7,13 +7,11 @@
 <!--START_SECTION:waka-->
 
 ```C++
-Total Time: 88 hrs 18 mins
+Total Time: 93 hrs 59 mins
 
-C++           86 hrs 7 mins   ||||||||||||||||||||||||-   97.51 %
-Objective-C   2 hrs 9 mins    |------------------------   02.44 %
-ObjectiveC    1 min           -------------------------   00.02 %
-C             0 secs          -------------------------   00.02 %
-Other         0 secs          -------------------------   00.01 %
+C++           90 hrs 56 mins  ||||||||||||||||||||||||-   96.53 %
+Objective-C   3 hrs           |------------------------   03.19 %
+Other         13 mins         -------------------------   00.24 %
 ```
 
 <!--END_SECTION:waka-->
